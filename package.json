@@ -1,0 +1,22 @@
+{
+  "name": "blognodejs",
+  "version": "1.0.0",
+  "description": "知识积累、沉淀",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fandong90/blog.git"
+  },
+  "author": "fandong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fandong90/blog/issues"
+  },
+  "homepage": "https://github.com/fandong90/blog#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
